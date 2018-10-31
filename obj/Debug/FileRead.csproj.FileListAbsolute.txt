@@ -1,0 +1,7 @@
+C:\Users\Ovi\Desktop\FileRead\FileRead\bin\Debug\FileRead.exe.config
+C:\Users\Ovi\Desktop\FileRead\FileRead\bin\Debug\FileRead.exe
+C:\Users\Ovi\Desktop\FileRead\FileRead\bin\Debug\FileRead.pdb
+C:\Users\Ovi\Desktop\FileRead\FileRead\obj\Debug\FileRead.csprojAssemblyReference.cache
+C:\Users\Ovi\Desktop\FileRead\FileRead\obj\Debug\FileRead.csproj.CoreCompileInputs.cache
+C:\Users\Ovi\Desktop\FileRead\FileRead\obj\Debug\FileRead.exe
+C:\Users\Ovi\Desktop\FileRead\FileRead\obj\Debug\FileRead.pdb
